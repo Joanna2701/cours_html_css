@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="selecteurs.css" /><meta charset="utf-8" />
+</head>
+<body>
+<h1> Un très gros titre</h1>
+<div id="contenu">
+    <img src="html/coucher.png" alt="Un coucher de soleil">
+    <p>Voici la page Wikipédia de la météo, vous pouvez cliquer sur ce lien <a href="https://fr.wikipedia.org/wiki/Temps_(m%C3%A9t%C3%A9orologie)">ici</a> pour la consulter</p>
+    <p>Le temps ou la météo est l'ensemble des conditions physiques des basses couches de l'atmosphère à un moment précis et en un point précis. Sont communément associées au temps les conditions météorologiques dont les effets peuvent être directement ressentis : ennuagement ou rayonnement solaire, température, vent, précipitations et également visibilité. L'étude et la prévision du temps s'appellent la météorologie.</p>
+</div>
+
+<div class="class">
+    <img src="html/coucher.png" alt="Un coucher de soleil">
+    <p>Quatre éléments interagissent pour produire le temps1 : la pression atmosphérique, la température, l'humidité atmosphérique (hygrométrie) et le vent (généré par les variations de pression atmosphérique, l'altitude et le relief). Ces facteurs sont eux-mêmes influencés par 6 autres facteurs : la latitude, l'altitude, la végétation, les courants marins, la répartition terre-mer et la rotation de la Terre.</p>
+</div>
+
+</body> 
+</html>

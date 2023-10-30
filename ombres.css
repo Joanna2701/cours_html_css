@@ -1,0 +1,13 @@
+h1 {
+    text-shadow: 25px -5px 4px purple;
+}
+
+.premier {
+    box-shadow: 
+    10px 20px 10px pink,
+    10px 20px 10px ;
+}
+
+.deuxieme {
+    box-shadow: -10px -10px 2px limegreen;
+}

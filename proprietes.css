@@ -1,0 +1,36 @@
+h1 {
+    color:red;
+    text-align: center;
+    font-size:16px;
+}
+
+h3 {
+    color:blue;
+    font-size:12px;
+}
+
+p {
+    background-color:grey;
+}
+
+.strong {
+    font-weight: lighter;
+    color: #186e6a;
+}
+
+.em {
+    font-style:normal;
+    text-decoration: underline;
+    color:orange;
+    font-size:20px;
+}
+
+.dernier {
+    background-color:pink;
+}
+
+.titre {
+    color:green;
+    text-align: end;
+    text-decoration: underline;
+}
