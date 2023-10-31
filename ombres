@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="ombres.css" /><meta charset="utf-8" />
+    <link rel="stylesheet" href="ombres.css" /><meta charset="utf-8"/>
 </head>
 <body>
 <h1>Un titre</h1>
-<p class="premier">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit exercitationem illo nam voluptas corrupti repellendus quasi eos, tenetur veniam repellat, enim id quod. Quibusdam, enim pariatur quae molestiae modi et.
+<p class="premier">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit exercitationem illo nam voluptas corrupti repellendus quasi eos, tenetur veniam repellat, enim id quod. Quibusdam, enim pariatur quae molestiae modi et.</p>
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@
 <br>
 
 
-<p class="deuxieme">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis molestias hic, ipsum aliquam corrupti, error voluptates magni possimus consequuntur voluptatibus debitis quos iure? Cupiditate fuga dolorum repudiandae animi autem alias.
+<p class="deuxieme">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis molestias hic, ipsum aliquam corrupti, error voluptates magni possimus consequuntur voluptatibus debitis quos iure? Cupiditate fuga dolorum repudiandae animi autem alias.</p>
 
 
 

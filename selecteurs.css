@@ -1,8 +1,9 @@
-#contenu {
-    background-color: grey;
 
+
+#contenu {
+background-color: grey;
 }
 
 .class img {
-align-content: end;
+text-align:right;
 }
