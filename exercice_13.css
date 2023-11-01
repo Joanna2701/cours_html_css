@@ -1,0 +1,47 @@
+div {
+    background-color:lightblue;
+    height:250px;
+    width:400px;
+    border: 1px solid black;
+}
+
+.legende {
+    padding:20px;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bouton {
+    text-align: center;
+    margin-bottom: 20px;
+    padding:20px;
+}
+
+.bouton:hover {
+    color:darkblue;
+}
+
+.pseudo,.mdp {
+    margin-left: 30px;
+}
+
+.pseudomarge,.mdpmarge {
+    margin-left: 20px;
+}
+
+.check2 {
+    margin-left: 30px;
+}
+
+.check {
+    margin-left: 10px;
+}
+
+.bouton {
+    margin-top: 20px;
+}
+
+.bouton1 {
+    margin-right:5px;
+}
