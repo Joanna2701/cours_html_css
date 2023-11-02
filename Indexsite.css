@@ -1,0 +1,43 @@
+
+
+@media {
+    .premier {
+        background-color: lightblue;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .deuxieme {
+        background-color:white;
+    }
+}
+
+@media screen and (min-width:800px) {
+    .troisieme {
+        background-color:purple;
+    }
+}
+
+@media screen and (min-width:1024px) (max-width:1280px) {
+    .quatrieme {
+        background-color:grey;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .cinquieme {
+        background-color:grey;
+    }
+}
+
+@media screen and (orientation:portrait) {
+    .sixieme {
+        background-color:grey;
+    }
+}
+
+@media screen and (orientation:landscape) {
+    .septieme {
+        background-color:purple;
+    }
+}
