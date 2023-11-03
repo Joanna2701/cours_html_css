@@ -1,43 +1,108 @@
-
-
-@media {
-    .premier {
-        background-color: lightblue;
-    }
+.bloc1{
+    background-color: #D3D3D3;
+    width:650px;
+    height:370px;
+    margin-left: 10px;
 }
 
-@media screen and (max-width: 640px) {
-    .deuxieme {
-        background-color:white;
-    }
+
+.media{
+color:#5555CE;
+margin-left: 10px;
+
 }
 
-@media screen and (min-width:800px) {
-    .troisieme {
-        background-color:purple;
-    }
+h1{
+border: 2px;
+background-color: #D3D3D3;
+text-align: center;
+width: 650px;
+margin-left: 10px;
 }
 
-@media screen and (min-width:1024px) (max-width:1280px) {
-    .quatrieme {
-        background-color:grey;
-    }
+.page{
+background-color: #D3D3D3;
 }
 
-@media screen and (max-width:480px) {
-    .cinquieme {
-        background-color:grey;
-    }
+h2{
+color:#9C9EA7 ;
 }
 
-@media screen and (orientation:portrait) {
-    .sixieme {
-        background-color:grey;
-    }
+.p1,.p3,.p4,.p5{
+background-color: white;
+margin-left: 10px;
+height: 25px;
+width: 620px;
 }
 
-@media screen and (orientation:landscape) {
-    .septieme {
-        background-color:purple;
-    }
+.p2,.p6{
+background-color:#5555CE;
+color: white;
+margin-left: 10px;
+height: 25px;
+width:620px;
+}
+
+/*.bloc1:nth-child(2){
+margin-left: 10px;
+}*/
+
+@media screen and (max-width:640px){
+#premier{
+  background-color: #5555CE;
+  color: white;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
+}
+
+@media screen and (min-width:800px){
+#deuxieme{
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
+}
+
+@media screen and (min-width:1024px) and (max-width:1280px){
+#troisieme{
+  background-color: #5555CE;
+  color: white;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
+}
+
+@media screen and (max-width:480px){
+#quatrieme{
+  background-color: #5555CE;
+  color: white;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
+}
+
+@media screen and (orientation:portrait){
+#cinquieme{
+  background-color: #5555CE;
+  color: white;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
+}
+
+@media screen and (orientation:landscape){
+#sixieme{
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  height: 25px;
+  width: 620px;
+}
 }
